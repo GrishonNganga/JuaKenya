@@ -1,0 +1,25 @@
+li{
+    margin-left: 8%;
+    margin-right: 8%;
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+    padding: 20px 20px 20px 20px ;
+    border-radius: 5px;
+}
+a{
+    all: unset;
+}
+ul{
+    margin: auto;
+    font-family: "Roboto", "Verdana";
+    justify-content: center;
+    display: flex;
+    font-size: 1.5em;
+    color: white;
+    background-color: #0080FF;
+}
+li:hover{
+    text-decoration: underline;
+    background-color: #005dba;
+}
