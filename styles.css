@@ -67,10 +67,10 @@ li:hover{
 }
 @keyframes slide{
     0%{
-        background-image: url('1.png');
+        background-image: url('image.png');
     }
     20%{
-        background-image: url('1.png');
+        background-image: url('image.png');
     }
     20.01%{
          background-image: url('2.png');
@@ -79,10 +79,10 @@ li:hover{
          background-image: url('2.png');
     }
     40.01%{
-         background-image: url('3.png');
+         background-image: url('tsavo.jpg');
     }
     60%{
-         background-image: url('3.png');
+         background-image: url('tsavo.jpg');
     }
     60.01%{
          background-image: url('4.png');
@@ -110,12 +110,16 @@ li:hover{
     
     margin-top: 3%;
     margin-right: 2%;
-    margin-bottom: 3%;
+    margin-bottom: 1%;
     text-align: center;
+}
+.dest p{
+    margin-top: 10px;
+    font-size: 20px;
 }
 .view-more{
     margin-left: 45.5%;
-    margin-top: -6%;
+    margin-top: -5%;
     color: white;
     background-color: #0080FF;
     padding: 15px 20px 15px 20px;
