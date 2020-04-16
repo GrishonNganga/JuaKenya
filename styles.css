@@ -90,6 +90,12 @@ li:hover{
     80%{
          background-image: url('4.png');
     }
+    80.01%{
+        background-image: url('momba.jpg');
+   }
+   100%{
+        background-image: url('momba.jpg');
+   }
 }
 .mid-title{
     font-size: 30px;
