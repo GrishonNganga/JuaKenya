@@ -124,3 +124,34 @@ li:hover{
     font-size: 20px;
     border-radius: 8px;
 }
+.newsletter{
+    margin-left: 35%;
+    margin-bottom: 3%;
+}
+.newsletter input{
+    width: 450px;
+    height: 40px;
+    border-radius: 3px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+.newsletter p{
+    font-size: 40px;
+    padding: 3% 0px 3% 0px;
+}
+.send{
+    margin-left: 15px;
+    background-color: #0080FF;
+    padding: 10px 10px 10px 10px;
+    border-color: #0080FF;
+    border-style: solid;
+    font-size: 20px;
+    border-radius: 5px;
+    color: white;
+}
+footer{
+    background-color: black;
+    padding: 5% 0px 5% 5%;;
+    color: white;
+}
