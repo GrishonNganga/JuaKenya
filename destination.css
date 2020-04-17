@@ -1,0 +1,100 @@
+li{
+    margin-left: 7%;
+    margin-right: 7%;
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+    padding: 20px 20px 20px 20px ;
+    border-radius: 5px;
+}
+.jua:hover{
+    text-decoration: none;
+    background-color: #0080FF;
+}
+
+a{
+    all: unset;
+}
+ul{
+    margin: auto;
+    font-family: "Roboto", "Verdana";
+    justify-content: center;
+    display: flex;
+    font-size: 1.5em;
+    color: white;
+    background-color: #0080FF;
+}
+li:hover{
+    text-decoration: underline;
+    background-color: #005dba;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.top-ish{
+    margin-top: 30px;
+    width: 100%;
+    display: flex;
+}
+.top-ish img{
+    margin-left: 15%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 35%;
+    height: 400px;
+    border-radius: 5px;
+    
+}
+.info{
+    margin-top: 5%;
+    margin-left: 5%;
+    font-size: 20px;
+}
+#para{
+    margin-bottom: 5px;
+}
+.dest-name{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+#p-bold{
+    font-weight: bold;
+}
+#sepa{
+    margin-top: 50px;
+}
+.book{
+    margin-left: 40%;
+    margin-top: 30px;
+    color: white;
+    background-color: #0080FF;
+    padding: 15px 20px 15px 20px;
+    border-color: #0080FF;
+    border-style: solid;
+    font-size: 20px;
+    border-radius: 8px;
+}
+.dest-amount{
+    margin-top: 35px;
+}
+.mid{
+    background-color: #f1f1f1;
+    padding-left: 15%;
+    height: 308px;
+}
+.more{
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.more-story{
+    font-size: 18px;
+}
+footer{
+    background-color: black;
+    padding: 5% 0px 5% 5%;;
+    color: white;
+}
